@@ -2,8 +2,10 @@ owner: vaishnavvijay-prog
 repo: zuro-status
 
 sites:
-  - name: Zuro website
+  - name: Website
     url: https://getzuro.com
+  - name: API
+    url: https://getzuro.com/api/access
 
 status-website:
   baseUrl: /zuro-status
