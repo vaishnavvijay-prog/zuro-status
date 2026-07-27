@@ -4,20 +4,7 @@ repo: zuro-status
 sites:
   - name: Zuro website
     url: https://getzuro.com
-  - name: Zuro Trust Center
-    url: https://zuro-trust-center-7yxye.ondigitalocean.app
 
 status-website:
   baseUrl: /zuro-status
-  logoUrl: https://getzuro.com/assets/logo.svg
   name: Zuro
-  introTitle: "Zuro system status"
-  introMessage: "Build, deploy & govern agentic AI. Live availability for Zuro services, checked automatically every 5 minutes."
-  theme: dark
-  navbar:
-    - title: Status
-      href: /
-    - title: Trust Center
-      href: https://zuro-trust-center-7yxye.ondigitalocean.app
-    - title: Website
-      href: https://getzuro.com
